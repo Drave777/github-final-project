@@ -1,0 +1,20 @@
+# Come contribuire a Simple Interest Calculator
+
+Grazie per il tuo interesse a contribuire a **Simple Interest Calculator**!  
+Questo progetto calcola l’interesse semplice a partire da capitale, tasso e tempo.
+
+---
+
+## Prima di iniziare
+
+- Assicurati di avere installato Git e un ambiente in cui eseguire l’app (es. Bash o Node, a seconda della versione del progetto).
+- Leggi il file README per capire come installare e lanciare l’app.
+- Se vuoi proporre una nuova funzionalità o un cambiamento importante, apri prima una Issue descrivendo la tua idea.
+
+---
+
+## Flusso di lavoro
+
+1. Fai il fork del repository su GitHub.
+2. Clona il fork in locale:
+
